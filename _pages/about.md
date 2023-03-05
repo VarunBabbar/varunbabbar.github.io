@@ -48,19 +48,15 @@ In an era where a major yardstick of progress in machine learning is performance
 Random Facts
 ======
 ------
-<div style="text-align: justify"> <b> Here are the cities I've lived in </b>: New Delhi --> Mumbai --> Singapore --> Mumbai --> Cambridge --> London --> Durham (North Carolina)? </div>
-<div style="line-height:75%;">
-    <br>
-</div>
+<div style="text-align: justify"> <b> Here are the cities I've lived in </b>: <br> New Delhi &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; Mumbai &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; Singapore &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; Mumbai &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; Cambridge &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; London &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; Durham (North Carolina)? </div>
+<br>
 **Here are the languages I am fluent in**: English, Hindi, French
 <div style="line-height:60%;">
     <br>
 </div>
 **My non-sporting interests are quite random**: Rubiks cubes, chess, and Urdu poetry are the top 3.
-<div style="line-height:60%;">
-    <br>
-</div>
-<div style="text-align: justify"> <b> Squash and Basketball are my main sports </b>: I was part of Cambridge's Varsity squash team. We toured a lot in and around Cambridgeshire, playing against county clubs and university teams alike. I don't play basketball regularly, but I watch and follow NBA basketball (i.e. Lakers) quite religiously. </div>
+<br>
+<div style="text-align: justify"> <b> I love basketball and squash</b>: I was part of Cambridge's Varsity squash team. We toured a lot in and around Cambridgeshire, playing against county clubs and university teams alike. I don't play basketball regularly, but I watch and follow NBA basketball (i.e. Lakers) quite religiously. </div>
 
 
 <!-- Create content & metadata

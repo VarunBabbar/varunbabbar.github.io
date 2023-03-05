@@ -62,7 +62,7 @@ My research interests lie broadly in trustworthy AI and human-machine collaborat
 
 ### Patents
 
-1. Antonios Georgiadis, Fanny Silavong, Sean Moran, Rob Otter, Varun Babbar       
+1. Antonios Georgiadis, Fanny Silavong, Sean Moran, Rob Otter, **Varun Babbar**    
 <span style="color:navy">Systems and Methods For Noise Agnostic Federated Learning</span>      
 *United States Patent Application* **(Pending)**   
 [<button type="button" class="btn btn-info" style="background-color:green">Application</button>](https://www.freepatentsonline.com/y2023/0058972.html) 
