@@ -21,6 +21,7 @@
     "node": ">= 0.10.0"
   },
   "devDependencies": {
+    "marked": "^4.2.12",
     "npm-run-all": "^1.7.0",
     "onchange": "^2.2.0",
     "uglify-js": "^2.6.1"
