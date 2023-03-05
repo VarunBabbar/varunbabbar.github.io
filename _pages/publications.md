@@ -17,7 +17,7 @@ author_profile: true
 {% endfor %} -->
 
 
-My interests broadly lie in the field of **trustworthy machine learning** (ML). Specifically, I focus on algorithmic transparency and its effects on decision-making. I study how to create ML systems that explain their predictions to stakeholders, leverage stakeholder expertise for better human-machine team performance, and interact with stakeholders to account for their goals and values.
+My research interests lie broadly in trustworthy AI and human-machine collaboration. I am also excited by applications of learning algorithms in cost sensitive domains such as healthcare and criminal justice. Given constraints and feedback on a model provided by external stakeholders, I want to design algorithms that are maximally reliable / performant under the constraint set.
 
 
 ### Conference Publications (Refereed and Archived)
