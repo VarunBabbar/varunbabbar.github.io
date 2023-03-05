@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify">
-Hi! I'm Varun Babbar, an incoming PhD student in Machine Learning at Duke University. Currently, I'm working as an ML Researcher at JP Morgan, focusing on developing machine learning models that can accelerate software development by providing insights about source code.
+Hi! I'm Varun Babbar, an ML Research Associate at JP Morgan. I focus on developing machine learning models that can accelerate software development by providing insights about source code.
 <!-- 
 Here, I've deployed a weakly supervised learning model for providing code insights to developers and worked on a research project involving parameter-pruning of deep learning models. -->
 <!-- Here, I also founded an interpretable ML reading group that focuses on knowledge sharing through talks and paper discussions.  -->
