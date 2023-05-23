@@ -22,6 +22,7 @@ Below is a list of research talks I have given.
 "[Conformal Prediction for Resource Prioritisation in Predicting Rare and Dangerous Outcomes](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/64431.png?t=1669665249.8476038)"
 * NeurIPS Workshop on Human in the Loop Learning, 2022. Virtual. December 2022.
 
+----
 
 "[CODiT: Conformal Out-of-Distribution Detection in Time-Series Data](https://arxiv.org/abs/2207.11769)"
 * JP Morgan. *Applied Innovation in AI: Anomaly Detection Reading Group*. London. April 2023.
