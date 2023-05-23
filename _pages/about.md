@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify">
-Hi! I'm Varun Babbar, an ML Research Associate at JP Morgan. I focus on developing machine learning models that can accelerate software development by providing insights about source code.
+Hi! I'm Varun Babbar, an incoming PhD student in Machine Learning at Duke University. Currently, I'm working as an ML Researcher at JP Morgan, focusing on developing machine learning models that can accelerate software development by providing insights about source code.
 <!-- 
 Here, I've deployed a weakly supervised learning model for providing code insights to developers and worked on a research project involving parameter-pruning of deep learning models. -->
 <!-- Here, I also founded an interpretable ML reading group that focuses on knowledge sharing through talks and paper discussions.  -->
@@ -48,7 +48,7 @@ In an era where a major yardstick of progress in machine learning is performance
 Random Facts
 ======
 ------
-<div style="text-align: justify"> <b> Here are the cities I've lived in </b>: <br> New Delhi &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; Mumbai &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; Singapore &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; Mumbai &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; Cambridge &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; London &nbsp; </div>
+<div style="text-align: justify"> <b> Here are the cities I've lived in </b>: <br> New Delhi &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; Mumbai &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; Singapore &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; Mumbai &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; Cambridge &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; London &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; Durham (North Carolina)? </div>
 <br>
 **Here are the languages I am fluent in**: English, Hindi, French
 <div style="line-height:60%;">

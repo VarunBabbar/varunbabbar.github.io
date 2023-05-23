@@ -46,7 +46,7 @@ My research interests lie broadly in trustworthy AI and human-machine collaborat
 
 1. **Varun Babbar**, Umang Bhatt, Miri Zilka, Adrian Weller           
 <span style="color:navy">Conformal Prediction for Resource Prioritisation in Predicting Rare and Dangerous Outcomes</span>      
-*NeurIPS Workshop on Human in the Loop Learning, 2022.* **(Also submitted to IJCAI '23)**     
+*NeurIPS Workshop on Human in the Loop Learning, 2022*    
 [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](/files/NIPS_2022_HILL_Workshop__CP_Dangerous_Individual_Flagging.pdf) 
 [<button type="button" class="btn btn-info" style="background-color:red">Poster</button>](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/64431.png?t=1669665249.8476038)
 
@@ -56,9 +56,10 @@ My research interests lie broadly in trustworthy AI and human-machine collaborat
 
 1. Xiaoying Zhi, **Varun Babbar**, Pheobe Sun, Fran Silavong, Ruibo Shi, Sean Moran       
 <span style="color:navy">A New Baseline for GreenAI: Finding the Optimal Sub-Network via Layer and Channel Pruning</span>      
-*Submitted to International Joint Conference on Artificial Intelligence (IJCAI), 2023.*    
+*Submitted to European Conference on Artificial Intelligence (ECAI), 2023.*    
 [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/pdf/2302.10798.pdf) 
 
+-----
 
 ### Patents
 
@@ -66,3 +67,14 @@ My research interests lie broadly in trustworthy AI and human-machine collaborat
 <span style="color:navy">Systems and Methods For Noise Agnostic Federated Learning</span>      
 *United States Patent Application* **(Pending)**   
 [<button type="button" class="btn btn-info" style="background-color:green">Application</button>](https://www.freepatentsonline.com/y2023/0058972.html) 
+
+
+2. Another one in progess - relating to machine learning on source code
+
+-----
+### Thesis
+
+1. **Varun Babbar**    
+<span style="color:navy">Set Valued Predictions for Human-AI Teams</span>      
+*MEng Thesis - University of Cambridge* **(Prize for top-ranked thesis)**   
+[<button type="button" class="btn btn-info" style="background-color:green">Thesis</button>](/files/Varun_Babbar_MEng_Thesis.pdf)
