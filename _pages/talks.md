@@ -9,7 +9,6 @@ redirect_from:
 
 Below is a list of research presentations I have given.
 
-
 "[What is different between these datasets?](https://arxiv.org/abs/2403.05652)"
 * Duke University, *Research Milestone Presentation*, May 2024.
 
@@ -35,10 +34,3 @@ Below is a list of research presentations I have given.
 * Workshop on Distribution Free Uncertainty Quantification (*ICML*). Virtual. July 2022.
 * University of Cambridge, *MEng Project Presentation*. Cambridge, UK. June 2022.
 * JP Morgan. *Applied Innovation in AI*. London. November 2022.
-
-
-
-
-
-
-
