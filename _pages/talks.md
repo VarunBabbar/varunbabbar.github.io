@@ -7,10 +7,15 @@ redirect_from:
   - /talks.html
 ---
 
-Below is a list of research presentations I have given.
+Below is a list of talks I have given.
 
 "[What is different between these datasets?](https://arxiv.org/abs/2403.05652)"
 * Duke University, *Research Milestone Presentation*, May 2024.
+
+----
+
+"[Bootstrapping and Conformal Prediction]()"
+* Interpretable Machine Learning Lab, *Statistics Reading Group*, March 2024
 
 ----
 
