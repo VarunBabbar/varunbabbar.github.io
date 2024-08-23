@@ -7,15 +7,23 @@ redirect_from:
   - /talks.html
 ---
 
-Below is a list of talks I have given.
+Below is a list of talks I have given / will give in the future.
+
+"[Sparse Decision Trees]()"
+* Duke University, *Guest Lecture, MEng in Artificial Intelligence program*, September 2024.
+
+
+"[ROC Curves for Exploratory Data Analysis]()"
+* Duke University, *Theory and Algorithms in Machine Learning, CS 671*, August 2024.
+
 
 "[What is different between these datasets?](https://arxiv.org/abs/2403.05652)"
 * Duke University, *Research Milestone Presentation*, May 2024.
-
+ 
 ----
 
 "[Bootstrapping and Conformal Prediction]()"
-* Interpretable Machine Learning Lab, *Statistics Reading Group*, March 2024
+* *Interpretable Machine Learning Lab, Statistics Reading Group*, March 2024
 
 ----
 
