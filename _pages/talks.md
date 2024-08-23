@@ -28,7 +28,7 @@ Below is a list of talks I have given / will give in the future.
 ----
 
 "[Large Language Models for Software Development]()"
-* *JP Morgan Innovation Week*. London. June 2023.
+* *JP Morgan Innovation Week Speaker Series*. London. June 2023.
 
 ----
 
@@ -43,7 +43,7 @@ Below is a list of talks I have given / will give in the future.
 ----
 
 "[On the Utility of Prediction Sets in Human-AI Teams](/files/MEng_thesis_presentation.pdf)"
-* International Joint Conference in Artificial Intelligence (*IJCAI*). Virtual. July 2022.
+* International Joint Conference in Artificial Intelligence (*IJCAI*). Vienna, July 2022.
 * Workshop on Distribution Free Uncertainty Quantification (*ICML*). Virtual. July 2022.
-* University of Cambridge, *MEng Project Presentation*. Cambridge, UK. June 2022.
+* University of Cambridge, Department of Engineering, Cambridge, UK. June 2022.
 * JP Morgan. *Applied Innovation in AI*. London. November 2022.
