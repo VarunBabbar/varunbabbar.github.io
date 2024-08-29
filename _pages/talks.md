@@ -14,7 +14,7 @@ Below is a list of talks I have given / will give in the future.
 
 
 "[ROC Curves for Exploratory Data Analysis]()"
-* Duke University, *Theory and Algorithms in Machine Learning, CS 671*, August 2024.
+* Duke University, *Guest Lecture, Theory and Algorithms in Machine Learning, CS 671*, August 2024.
 
 
 "[What is different between these datasets?](https://arxiv.org/abs/2403.05652)"
