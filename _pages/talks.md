@@ -7,9 +7,9 @@ redirect_from:
   - /talks.html
 ---
 
-Below is a list of talks I have given / will give in the future.
+Below is a list of talks I have given.
 
-"[Sparse Decision Trees]()"
+"[How to Make Good Decisions (When Optimizing Decision Trees!)]()"
 * Duke University, *Guest Lecture, MEng in Artificial Intelligence program*, September 2024.
 
 
