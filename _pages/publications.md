@@ -7,6 +7,16 @@ author_profile: true
 
 My research interests lie broadly in trustworthy AI and human-machine collaboration. I am also excited by applications of learning algorithms in cost sensitive domains such as healthcare and criminal justice. Given constraints and feedback on a model provided by external stakeholders, I want to design algorithms that are maximally reliable / performant under the constraint set.
 
+### Papers Currently Under Review
+
+1. **Varun Babbar**\*, Stark Guo \*, Cynthia Rudin  
+   <span style="color:navy">What is different between these datasets?</span>  
+   _Submitted to Journal of Machine Learning Research (JMLR), 2024._  
+   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/pdf/2403.05652.pdf)
+
+2. Another paper recently submitted to AISTATS 2025 - details to be added soon!
+---
+
 ### Conference Publications (Refereed and Archived)
 
 1. **Varun Babbar**, Umang Bhatt, Adrian Weller  
@@ -40,15 +50,6 @@ My research interests lie broadly in trustworthy AI and human-machine collaborat
    <span style="color:navy">Topical: Learning Repository Embeddings from Source Code using Attention</span>  
    In _The 1st Workshop on Software Engineering Challenges in Financial Firms, International Conference on Software Engineering (ICSE) 2024_\\
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/pdf/2208.09495.pdf)
-
----
-
-### Papers Currently Under Review
-
-1. **Varun Babbar**\*, Stark Guo \*, Cynthia Rudin  
-   <span style="color:navy">What is different between these datasets?</span>  
-   _Submitted to Journal of Machine Learning Research (JMLR), 2024._  
-   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/pdf/2403.05652.pdf)
 
 ---
 
