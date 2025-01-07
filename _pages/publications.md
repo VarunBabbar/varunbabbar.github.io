@@ -63,7 +63,9 @@ My research interests lie broadly in trustworthy AI and human-machine collaborat
    <span style="color:navy">Systems and Methods For Noise Agnostic Federated Learning</span>  
    [<button type="button" class="btn btn-info" style="background-color:green">Patent</button>](https://www.freepatentsonline.com/y2023/0058972.html)
 
-2. Another one in progess - relating to machine learning on source code
+2. Peter Maciver, **Varun Babbar**, Sean Moran
+<span style="color:navy">Systems and Methods for Automated Application and Platform Generation</span>  
+   [<button type="button" class="btn btn-info" style="background-color:green">Patent</button>](https://www.freepatentsonline.com/y2025/0005530.html)
 
 ---
 
