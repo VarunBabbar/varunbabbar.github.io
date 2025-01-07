@@ -14,7 +14,11 @@ My research interests lie broadly in trustworthy AI and human-machine collaborat
    _Submitted to Journal of Machine Learning Research (JMLR), 2024._  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/pdf/2403.05652.pdf)
 
-2. Another paper recently submitted to AISTATS 2025 - details to be added soon!
+2. **Varun Babbar**\*, Hayden McTavish \*, Cynthia Rudin, Margo Seltzer
+   <span style="color:navy">A Return to Greed: Sparse Decision Tree Learning with Thoughtful Use of Optimal and Greedy Strategies</span>  
+   _Submitted to Artificial Intelligence and Statistics (AISTATS), 2025._  
+   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>]()
+
 ---
 
 ### Conference Publications (Refereed and Archived)
