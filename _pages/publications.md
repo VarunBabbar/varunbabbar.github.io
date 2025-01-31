@@ -15,8 +15,8 @@ My research interests lie broadly in trustworthy AI and human-machine collaborat
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/pdf/2403.05652.pdf)
 
 2. **Varun Babbar**\*, Hayden McTavish \*, Cynthia Rudin, Margo Seltzer
-   <span style="color:navy">A Return to Greed: Sparse Decision Tree Learning with Thoughtful Use of Optimal and Greedy Strategies</span>  
-   _Submitted to Artificial Intelligence and Statistics (AISTATS), 2025._  
+   <span style="color:navy">Near-Optimal Decision Trees in a SPLIT Second</span>  
+   _Submitted to International Conference in Machine Learning (ICML), 2025._  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>]()
 
 ---
