@@ -12,7 +12,7 @@ My research interests lie broadly in trustworthy AI and human-machine collaborat
 1. **Varun Babbar**\*, Stark Guo \*, Cynthia Rudin  
    <span style="color:navy">What is different between these datasets?</span>  
    _Submitted to Journal of Machine Learning Research (JMLR), 2024._  
-   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/pdf/2403.05652.pdf)
+   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2403.05652)
 
 2. **Varun Babbar**\*, Hayden McTavish \*, Cynthia Rudin, Margo Seltzer \\
    <span style="color:navy">Near-Optimal Decision Trees in a SPLIT Second</span>  
