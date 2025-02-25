@@ -14,9 +14,9 @@ My research interests lie broadly in trustworthy AI and human-machine collaborat
    _Submitted to Journal of Machine Learning Research (JMLR), 2024._  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/pdf/2403.05652.pdf)
 
-2. **Varun Babbar**\*, Hayden McTavish \*, Cynthia Rudin, Margo Seltzer\\
+2. **Varun Babbar**\*, Hayden McTavish \*, Cynthia Rudin, Margo Seltzer \\
    <span style="color:navy">Near-Optimal Decision Trees in a SPLIT Second</span>  
-   _Submitted to International Conference on Machine Learning (ICML), 2025._\\
+   _Submitted to International Conference on Machine Learning (ICML), 2025._ \\
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2502.15988)
 
 ---
@@ -64,7 +64,7 @@ My research interests lie broadly in trustworthy AI and human-machine collaborat
    [<button type="button" class="btn btn-info" style="background-color:green">Patent</button>](https://www.freepatentsonline.com/y2023/0058972.html)
 
 2. Peter Maciver, **Varun Babbar**, Sean Moran\\
-<span style="color:navy">Systems and Methods for Automated Application and Platform Generation, 2025</span>\\
+<span style="color:navy">Systems and Methods for Automated Application and Platform Generation, 2025</span> \\
    [<button type="button" class="btn btn-info" style="background-color:green">Patent</button>](https://www.freepatentsonline.com/y2025/0005530.html)
 
 ---
