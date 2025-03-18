@@ -16,7 +16,7 @@ My research interests lie broadly in trustworthy AI and human-machine collaborat
 
 2. **Varun Babbar**\*, Hayden McTavish \*, Cynthia Rudin, Margo Seltzer \\
    <span style="color:navy">Near-Optimal Decision Trees in a SPLIT Second</span>  
-   _Submitted to International Conference on Machine Learning (ICML), 2025._ \\
+   <!-- _Submitted to International Conference on Machine Learning (ICML), 2025._ \\ -->
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2502.15988)
 
 ---
