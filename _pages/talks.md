@@ -9,8 +9,12 @@ redirect_from:
 
 Below is a list of talks I have given.
 
-"[How to Make Good Decisions (When Optimizing Decision Trees!)]()"
-* Duke University, *Guest Lecture, MEng in Artificial Intelligence program*, September 2024.
+"[How to Build Responsible AI Models)]()"
+* New York University, *Guest Lecture, MEng in Artificial Intelligence program*, April 2025.
+
+
+"[Near Optimal Decision Trees in a SPLIT Second)](https://arxiv.org/abs/2502.15988)"
+* Duke University, Responsible AI Symposium*, February 2025.
 
 
 "[ROC Curves for Exploratory Data Analysis]()"

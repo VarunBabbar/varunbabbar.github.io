@@ -14,18 +14,18 @@ My research interests lie broadly in trustworthy AI and human-machine collaborat
    _Submitted to Journal of Machine Learning Research (JMLR), 2024._  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2403.05652)
 
-2. **Varun Babbar**\*, Hayden McTavish \*, Cynthia Rudin, Margo Seltzer \\
-   <span style="color:navy">Near-Optimal Decision Trees in a SPLIT Second</span>  
-   <!-- _Submitted to International Conference on Machine Learning (ICML), 2025._ \\ -->
-   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2502.15988)
-
 ---
 
 ### Conference Publications (Refereed and Archived)
 
-1. **Varun Babbar**, Umang Bhatt, Adrian Weller  
+1. **Varun Babbar**\*, Hayden McTavish \*, Cynthia Rudin, Margo Seltzer \\
+   <span style="color:navy">Near-Optimal Decision Trees in a SPLIT Second</span>  
+   _International Conference on Machine Learning (ICML), 2025._ **Spotlight, Top 2.6% of submissions**\\
+   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2502.15988)
+
+2. **Varun Babbar**, Umang Bhatt, Adrian Weller  
    <span style="color:navy">On the Utility of Prediction Sets in Human-AI Teams</span>  
-   _International Joint Conference on Artificial Intelligence (IJCAI), 2022._ **(Oral)**  
+   _International Joint Conference on Artificial Intelligence (IJCAI), 2022._ **(Oral, Top 3% of submissions)**  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2205.01411)
    [<button type="button" class="btn btn-info" style="background-color:red">Poster</button>](/files/On_the_Utility_of_Prediction_Sets_in_Human_AI_Teams_Poster.pdf)
 
