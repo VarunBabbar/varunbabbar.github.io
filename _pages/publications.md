@@ -25,7 +25,7 @@ My research interests lie broadly in trustworthy AI and human-machine collaborat
 
 2. **Varun Babbar**, Umang Bhatt, Adrian Weller  
    <span style="color:navy">On the Utility of Prediction Sets in Human-AI Teams</span>  
-   _International Joint Conference on Artificial Intelligence (IJCAI), 2022._ **(Oral, Top 3% of submissions)**  
+   _International Joint Conference on Artificial Intelligence (IJCAI), 2022._ **(Long Oral, Top 3% of submissions)**  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2205.01411)
    [<button type="button" class="btn btn-info" style="background-color:red">Poster</button>](/files/On_the_Utility_of_Prediction_Sets_in_Human_AI_Teams_Poster.pdf)
 
