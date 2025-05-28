@@ -9,14 +9,20 @@ My research interests lie broadly in trustworthy AI and human-machine collaborat
 
 ### Papers Currently Under Review
 
-1. **Varun Babbar**\*, Stark Guo \*, Cynthia Rudin  
-   <span style="color:navy">What is different between these datasets?</span>  
+<!-- 1. Zack Boner\*,**Varun Babbar**\*, Michael Thomas\*, Allen Yao \*, Cynthia Rudin  
+   <span style="color:navy">Rashomon Sets of Falling Rule Lists</span>  
    _Submitted to Journal of Machine Learning Research (JMLR), 2024._  
-   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2403.05652)
+   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2403.05652) -->
 
 ---
 
 ### Conference Publications (Refereed and Archived)
+
+1. **Varun Babbar**\*, Stark Guo \*, Cynthia Rudin  
+   <span style="color:navy">What is different between these datasets?</span>  
+   _Journal of Machine Learning Research (JMLR), 2025._  
+   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2403.05652)
+
 
 1. **Varun Babbar**\*, Hayden McTavish \*, Cynthia Rudin, Margo Seltzer \\
    <span style="color:navy">Near-Optimal Decision Trees in a SPLIT Second</span>  
