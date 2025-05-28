@@ -23,6 +23,8 @@ My research interests lie broadly in trustworthy AI and human-machine collaborat
    <span style="color:navy">What is different between these datasets?</span>  
    _Journal of Machine Learning Research (JMLR), 2025._  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2403.05652)
+      [<button type="button" class="btn btn-info" style="background-color:yellow">Code</button>](https://github.com/VarunBabbar/SPLIT-ICML)
+
 
 
 2. **Varun Babbar**\*, Hayden McTavish \*, Cynthia Rudin, Margo Seltzer \\
