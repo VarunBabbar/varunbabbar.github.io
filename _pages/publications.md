@@ -23,14 +23,13 @@ My research interests lie broadly in trustworthy AI and human-machine collaborat
    <span style="color:navy">What is different between these datasets?</span>  
    _Journal of Machine Learning Research (JMLR), 2025._  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2403.05652)
-      [<button type="button" class="btn btn-info" style="background-color:yellow">Code</button>](https://github.com/VarunBabbar/SPLIT-ICML)
-
 
 
 2. **Varun Babbar**\*, Hayden McTavish \*, Cynthia Rudin, Margo Seltzer \\
    <span style="color:navy">Near-Optimal Decision Trees in a SPLIT Second</span>  
    _International Conference on Machine Learning (ICML), 2025._ **(Spotlight, Top 2.6% of submissions)**\\
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2502.15988)
+   [<button type="button" class="btn btn-info" style="background-color:yellow">Code</button>](https://github.com/VarunBabbar/SPLIT-ICML)
 
 3. **Varun Babbar**, Umang Bhatt, Adrian Weller  
    <span style="color:navy">On the Utility of Prediction Sets in Human-AI Teams</span>  
