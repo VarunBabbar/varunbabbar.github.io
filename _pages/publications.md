@@ -29,7 +29,7 @@ My research interests lie broadly in trustworthy AI and human-machine collaborat
    <span style="color:navy">Near-Optimal Decision Trees in a SPLIT Second</span>  
    _International Conference on Machine Learning (ICML), 2025._ **(Spotlight, Top 2.6% of submissions)**\\
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2502.15988)
-   [<button type="button" class="btn btn-info" style="background-color:yellow">Code</button>](https://github.com/VarunBabbar/SPLIT-ICML)
+   [<button type="button" class="btn btn-info" style="background-color:#ffdd57">Code</button>](https://github.com/VarunBabbar/SPLIT-ICML)
 
 3. **Varun Babbar**, Umang Bhatt, Adrian Weller  
    <span style="color:navy">On the Utility of Prediction Sets in Human-AI Teams</span>  
@@ -47,6 +47,7 @@ My research interests lie broadly in trustworthy AI and human-machine collaborat
    <span style="color:navy">Training a Task-Specific Image Reconstruction Loss</span> \\
    _Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, 2022_\\
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://openaccess.thecvf.com/content/WACV2022/papers/Mustafa_Training_a_Task-Specific_Image_Reconstruction_Loss_WACV_2022_paper.pdf)
+   [<button type="button" class="btn btn-info" style="background-color:#ffdd57">Code</button>](https://github.com/gfxdisp/mdf)
 
 ---
 
