@@ -25,12 +25,14 @@ I graduated from the University of Cambridge in 2022 with a BA + MEng in Informa
 ---
 
 <div style="text-align: justify">
-My research interests lie broadly in trustworthy machine learning and human-AI collaboration. In particular, I design algorithms, techniques, and frameworks that enable users to better understand the predictive models they are deploying as well as the data they train the models on. I like to think of my research as a tree:
+I’m interested in building machine learning algorithms that are reliable, transparent, and grounded in real-world impact. My work spans both theory and application — from developing near-optimal models through discrete optimization (ICML \textbf{Spotlight}), to designing uncertainty quantification methods aligned with human judgment (IJCAI \textbf{Oral}, NeurIPS workshop), to studying how data shifts affect model behavior (JMLR). Earlier, I worked on improving perceptual quality in computer vision models (WACV). Across these projects, I’m drawn to problems that make ML more useful, robust, and understandable in practice.
+
+<!-- My research interests lie broadly in trustworthy machine learning and human-AI collaboration. In particular, I design algorithms, techniques, and frameworks that enable users to better understand the predictive models they are deploying as well as the data they train the models on. I like to think of my research as a tree:
 </div>
 ![My Research Tree](/images/my_research_tree.png)
 1. <div style="text-align: justify"> The characteristics of test and training datasets must be fully understood. In particular, having differing training and test distributions of data risks deployment of a model that is flawed. In these cases, explaining distribution shifts using interpretable methods is more important than viewing datasets through the lens of basic statistical measurements. </div>
 2. <div style="text-align: justify"> The predictive model must be interpretable, computationally inexpensive to run, and have some guarantees on optimality. The end user and all relevant stakeholders should fully understand the operation and the limitations of the model. </div>
-3. <div style="text-align: justify"> When full interpretability is not possible (e.g. with heavily parameterized models such as LLMs), can we obtain sound explanations from the model? </div>
+3. <div style="text-align: justify"> When full interpretability is not possible (e.g. with heavily parameterized models such as LLMs), can we obtain sound explanations from the model? </div> -->
 
 # Random Facts
 

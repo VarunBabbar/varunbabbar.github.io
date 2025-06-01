@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-My research interests lie broadly in trustworthy AI and human-machine collaboration. I am also excited by applications of learning algorithms in cost sensitive domains such as healthcare and criminal justice. Given constraints and feedback on a model provided by external stakeholders, I want to design algorithms that are maximally reliable / performant under the constraint set.
+
 
 ### Papers Currently Under Review
 
