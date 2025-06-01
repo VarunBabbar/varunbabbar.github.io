@@ -25,7 +25,7 @@ I graduated from the University of Cambridge in 2022 with a BA + MEng in Informa
 ---
 
 <div style="text-align: justify">
-I’m interested in building machine learning algorithms that are reliable, transparent, and grounded in real-world impact. My work spans both theory and application — from developing near-optimal models through discrete optimization **(ICML Spotlight)**, to designing uncertainty quantification methods aligned with human judgment (**IJCAI Oral**, NeurIPS workshop), to developing a toolbox for analysing data distribution shift (JMLR). Earlier, I worked on improving perceptual quality in computer vision models (WACV). Across these projects, I’m drawn to problems that make ML more useful, robust, and understandable in practice.
+I’m interested in building machine learning algorithms that are reliable, transparent, and grounded in real-world impact. My work spans both theory and application — from developing near-optimal models through discrete optimization <b> (ICML Spotlight)</b>, to designing uncertainty quantification methods aligned with human judgment (<b>IJCAI Oral </b>, NeurIPS workshop), to developing a toolbox for analysing data distribution shift (JMLR). Earlier, I worked on improving perceptual quality in computer vision models (WACV). Across these projects, I’m drawn to problems that make ML more useful, robust, and understandable in practice.
 
 <!-- My research interests lie broadly in trustworthy machine learning and human-AI collaboration. In particular, I design algorithms, techniques, and frameworks that enable users to better understand the predictive models they are deploying as well as the data they train the models on. I like to think of my research as a tree:
 </div>
