@@ -34,6 +34,8 @@ I’m interested in building machine learning algorithms that are reliable, tran
 2. <div style="text-align: justify"> The predictive model must be interpretable, computationally inexpensive to run, and have some guarantees on optimality. The end user and all relevant stakeholders should fully understand the operation and the limitations of the model. </div>
 3. <div style="text-align: justify"> When full interpretability is not possible (e.g. with heavily parameterized models such as LLMs), can we obtain sound explanations from the model? </div> -->
 
+
+
 # Random Facts
 
 ---
