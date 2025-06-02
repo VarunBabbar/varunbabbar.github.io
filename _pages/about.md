@@ -40,11 +40,11 @@ I’m interested in building machine learning algorithms that are reliable, tran
 
 <div style="text-align: justify"> <b> Here are the cities I've lived in (in chronological order)</b>: <br> New Delhi &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; Mumbai &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; Singapore &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; Mumbai &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; Cambridge &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; London &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; Durham, North Carolina  <img src="files/plane.png" width="40" height="40"> &nbsp; New York </div>
 <br>
-**Here are the languages I am fluent in**: English, Hindi, French.
+<b>Here are the languages I am fluent in</b>: English, Hindi, French.
 <div style="line-height:60%;">
     <br>
 </div>
-**My non-sporting interests are quite random**: Rubiks cubes, chess, and playing the ukulele!
+<b> My non-sporting interests are quite random</b>: Rubiks cubes, chess, and playing the ukulele!
 <br>
 <div style="text-align: justify"> <b> I love playing basketball and squash</b>: I was part of Cambridge's Varsity squash team. We toured a lot in and around Cambridgeshire, playing against county clubs and university teams alike. I'm still active in Duke's squash and basketball communities, though I only play for recreation. </div>
 
