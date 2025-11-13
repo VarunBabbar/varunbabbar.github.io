@@ -17,7 +17,7 @@ author_profile: true
 
 ---
 
-### Conference Publications (Refereed and Archived)
+### Conference and JournalPublications (Refereed and Archived)
 
 1. **Varun Babbar**\*, Stark Guo \*, Cynthia Rudin  
    <span style="color:navy">What is different between these datasets?</span>  
