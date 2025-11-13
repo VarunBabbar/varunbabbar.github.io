@@ -13,7 +13,7 @@ author_profile: true
    <span style="color:navy">Rashomon Sets of Falling Rule Lists</span>  
    _Submitted to Journal of Machine Learning Research (JMLR), 2024._  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2403.05652) -->
-1. Paper under review at NeurIPS 2025. More on this soon!
+1. Paper under review at AISTATS 2026. More on this soon!
 
 ---
 
