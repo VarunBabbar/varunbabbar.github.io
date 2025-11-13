@@ -53,13 +53,18 @@ author_profile: true
 
 ### Workshop Publications (Refereed)
 
-1. **Varun Babbar**, Umang Bhatt, Miri Zilka, Adrian Weller  
+1. Zakk Heile, **Varun Babbar**, Hayden McTavish, and Cynthia Rudin
+   <span style="color:navy">Efficient Rashomon Set Approximation for Decision Tree Models</span>  
+   _NeurIPS 2025, ML x OR Workshop: Mathematical Foundations and Operational Integration of Machine Learning for Uncertainty-Aware Decision-Making_  
+   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>]()
+
+2. **Varun Babbar**, Umang Bhatt, Miri Zilka, Adrian Weller  
    <span style="color:navy">Conformal Prediction for Resource Prioritisation in Predicting Rare and Dangerous Outcomes</span>  
    _NeurIPS Workshop on Human in the Loop Learning, 2022_  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](/files/NIPS_2022_HILL_Workshop__CP_Dangerous_Individual_Flagging.pdf)
    [<button type="button" class="btn btn-info" style="background-color:red">Poster</button>](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/64431.png?t=1669665249.8476038)
 
-2. Agathe Lherondelle, **Varun Babbar**, Yash Satsangi, Fran Silavong, Shaltiel Eloul, Sean Moran. \\
+3. Agathe Lherondelle, **Varun Babbar**, Yash Satsangi, Fran Silavong, Shaltiel Eloul, Sean Moran. \\
    <span style="color:navy">Topical: Learning Repository Embeddings from Source Code using Attention</span>  
    In _The 1st Workshop on Software Engineering Challenges in Financial Firms, International Conference on Software Engineering (ICSE) 2024_\\
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/pdf/2208.09495.pdf)
