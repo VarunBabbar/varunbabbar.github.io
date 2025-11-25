@@ -27,6 +27,8 @@ I graduated from the University of Cambridge in 2022 with a BA + MEng in Informa
 <div style="text-align: justify"> 
 My research focuses on making machine learning models more interpretable, reliable, and actionable in real-world settings. I develop methods that balance predictive performance with transparency, such as discrete optimization techniques for near-optimal models (<b>ICML Oral 2025 </b>, <b> NeurIPS 2025 Workshop</b>, <b> AISTATS under review</b>), interpretable uncertainty quantification aligned with human judgments (<b>IJCAI Oral 2022</b>, <b>NeurIPS workshop 2022</b>), and diagnostic tools to understand distribution shifts between datasets (<b>JMLR 2025</b>). My work combines theoretical rigor with practical relevance, often inspired by challenges in healthcare, criminal justice, and perception. I’m especially interested in model selection under constraints, human-aligned evaluation, and data-centric ML.
 </div> 
+<br>
+<br>
 <!-- My research interests lie broadly in trustworthy machine learning and human-AI collaboration. In particular, I design algorithms, techniques, and frameworks that enable users to better understand the predictive models they are deploying as well as the data they train the models on. I like to think of my research as a tree:
 </div>
 ![My Research Tree](/images/my_research_tree.png)
@@ -36,9 +38,7 @@ My research focuses on making machine learning models more interpretable, reliab
 
 
 
-
 # Random Facts
-
 ---
 
 <div style="text-align: justify"> <b> Here are the cities I've lived in (in chronological order)</b>: <br> New Delhi &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; Mumbai &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; Singapore &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; Mumbai &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; Cambridge &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; London &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp; Durham, North Carolina  <img src="files/plane.png" width="40" height="40"> &nbsp; New York </div>
