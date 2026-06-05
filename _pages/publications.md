@@ -17,9 +17,9 @@ author_profile: true
 ## Conference and Journal Publications
 
 1. **Varun Babbar**\*, Stark Guo\*, Cynthia Rudin  
-   <span style="color:navy">What is different between these datasets?</span>  
+   <span style="color:navy">"What is Different Between These Datasets?" A Framework for Explaining Data Distribution Shifts</span>  
    _Journal of Machine Learning Research (JMLR), 2025._  
-   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2403.05652)
+   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://jmlr.org/papers/v26/24-0352.html)
 
 1. **Varun Babbar**\*, Hayden McTavish\*, Cynthia Rudin, Margo Seltzer  
    <span style="color:navy">Near-Optimal Decision Trees in a SPLIT Second</span>  
