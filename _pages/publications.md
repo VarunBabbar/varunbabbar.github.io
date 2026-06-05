@@ -41,6 +41,8 @@ author_profile: true
    <span style="color:navy">From Rashomon Theory to PRAXIS: Efficient Decision Tree Rashomon Sets</span>  
    _International Conference on Machine Learning (ICML), 2026._  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>]()
+   [<button type="button" class="btn btn-info" style="background-color:#ffdd57">Code</button>](https://github.com/zakk-h/PRAXIS)
+
 
 1. **Varun Babbar**, Umang Bhatt, Adrian Weller  
    <span style="color:navy">On the Utility of Prediction Sets in Human-AI Teams</span>  
