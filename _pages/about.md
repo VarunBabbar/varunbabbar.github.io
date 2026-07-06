@@ -9,7 +9,11 @@ redirect_from:
 ---
 
 <div style="text-align: justify">
-Hi! I'm Varun Babbar, a PhD student in Machine Learning at Duke University, advised by <a href="https://users.cs.duke.edu/~cynthia/">Cynthia Rudin</a>. Previously, I worked as an ML Researcher at JP Morgan London, where I developed machine learning methods to accelerate software development. This included methods to generate <a href="https://arxiv.org/pdf/2208.09495.pdf">embeddings of repositories</a>, designing systems based on large language models to automate code development, and code unit test quality assessment based on weakly supervised learning (no links here because these were internal projects).
+Hi! I'm Varun Babbar, a PhD candidate in Machine Learning at Duke University, advised by <a href="https://users.cs.duke.edu/~cynthia/">Cynthia Rudin</a>. I also work closely with <a href="https://www.seltzer.com/margo/">Margo Seltzer </a>. I'm currently a Research Scientist Intern at Capital One in New York, training specialized foundation models for tabular data.
+</div>
+
+<div style="text-align: justify">
+Before my PhD, I was an Applied Scientist at JP Morgan Chase in London, working on developing machine learning models for automated source code understanding — work that led to a <a href="https://patents.google.com/patent/US20250005530A1/en">pending patent</a> and <a href="https://dl.acm.org/doi/abs/10.1145/3643665.3648047">a paper</a>.
 </div>
 
 <div style="text-align: justify">
@@ -21,11 +25,11 @@ I graduated from the University of Cambridge in 2022 with a BA + MEng in Informa
 ## Research Interests
 
 <div style="text-align: justify">
-My research focuses on making machine learning models more interpretable, reliable, and actionable in real-world settings. I develop methods that balance predictive performance with transparency, such as discrete optimization techniques for near-optimal models (<b>ICML 2025 Oral</b>, <b>ICML 2026 Spotlight</b>), interpretable uncertainty quantification aligned with human judgments (<b>IJCAI Oral 2022</b>, <b>NeurIPS Workshop 2022</b>), and diagnostic tools to understand distribution shifts between datasets (<b>JMLR 2025</b>). My work combines theoretical rigor with practical relevance, often inspired by challenges in healthcare, criminal justice, and perception. I'm especially interested in model selection under constraints, human-aligned evaluation, and data-centric ML.
+My research focuses on making machine learning models more interpretable, reliable, and actionable in real-world settings. I develop methods that balance predictive performance with transparency, such as discrete optimization techniques for near-optimal models (<b>ICML 2025 Oral</b>, <b>3 ICML 2026 papers including 1 Spotlight</b>), interpretable uncertainty quantification aligned with human judgments (<b>IJCAI Oral 2022</b>, <b>NeurIPS Workshop 2022</b>), and diagnostic tools to understand distribution shifts between datasets (<b>JMLR 2025</b>).
 </div>
 
 <div style="text-align: justify">
-More recently, I'm also interested in tabular foundation models and am currently exploring how to understand their inductive biases and make them more interpretable.
+More recently, I'm also interested in foundation models for tabular and time series data. I'm currently exploring their mechanistic interpretability, understanding their inductive biases, and uncovering regimes where interpretable models perform better.
 </div>
 
 ---
