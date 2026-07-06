@@ -30,17 +30,17 @@ author_profile: true
 1. **Varun Babbar**\*, Zachery Boner\*, Margo Seltzer, Cynthia Rudin  
    <span style="color:navy">Falling Trees: A Model Class for Interpretable Risk Prioritisation</span>  
    _International Conference on Machine Learning (ICML), 2026._ **(Spotlight, ~Top 2% of submissions)**  
-   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>]()
+   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://openreview.net/forum?id=UWLHtRaVHp&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2026%2FConference%2FAuthors%23your-submissions))
 
 1. Yixiao Wang\*, Hayden McTavish\*, **Varun Babbar**\*, Margo Seltzer, Cynthia Rudin  
    <span style="color:navy">CLARITree: Cholesky and Lookahead Accelerations for Regression with Interpretable Piecewise Linear Trees</span>  
    _International Conference on Machine Learning (ICML), 2026._  
-   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>]()
+   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2606.12840)
 
 1. Zakk Heile\*, Hayden McTavish\*, **Varun Babbar**, Margo Seltzer, Cynthia Rudin  
    <span style="color:navy">From Rashomon Theory to PRAXIS: Efficient Decision Tree Rashomon Sets</span>  
    _International Conference on Machine Learning (ICML), 2026._  
-   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>]()
+   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/pdf/2606.00202)
    [<button type="button" class="btn btn-info" style="background-color:#ffdd57">Code</button>](https://github.com/zakk-h/PRAXIS)
 
 
