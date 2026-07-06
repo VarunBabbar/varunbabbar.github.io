@@ -13,7 +13,7 @@ Hi! I'm Varun Babbar, a <b>PhD candidate in Machine Learning at Duke University<
 </div>
 <br>
 <div style="text-align: justify">
-Before my PhD, I was an <b>Applied Scientist at JP Morgan</b> London, working on developing machine learning models for automated source code understanding. This work led to a <a href="https://patents.google.com/patent/US20250005530A1/en"><b>pending patent</b></a> on an <b>LLM-based architecture</b> for automated software development and <a href="https://dl.acm.org/doi/abs/10.1145/3643665.3648047">a paper</a> on representation learning for code repositories.
+Before my PhD, I was an <b>Applied Scientist at JP Morgan</b> London, working on developing machine learning models for automated source code understanding. This work led to a <a href="https://patents.google.com/patent/US20250005530A1/en"><b>pending patent</b></a> on an <b>LLM-based workflow</b> for automated software development and <a href="https://dl.acm.org/doi/abs/10.1145/3643665.3648047">a paper</a> on representation learning for code repositories.
 </div>
 <br>
 <div style="text-align: justify">
