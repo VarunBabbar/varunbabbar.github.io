@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify">
-Hi! I'm Varun Babbar, a PhD candidate in Machine Learning at Duke University, advised by <a href="https://users.cs.duke.edu/~cynthia/">Cynthia Rudin</a>. I also work closely with <a href="https://www.seltzer.com/margo/">Margo Seltzer </a>. I'm currently a Research Scientist Intern at the AI Foundations team in Capital One New York, training specialized foundation models for tabular data.
+Hi! I'm Varun Babbar, a PhD candidate in Machine Learning at Duke University, advised by <a href="https://users.cs.duke.edu/~cynthia/">Cynthia Rudin</a>. I also work closely with <a href="https://www.seltzer.com/margo/">Margo Seltzer </a>. I'm currently a Research Scientist Intern in the AI Foundations team at Capital One, New York, training specialized foundation models for tabular data.
 </div>
 <br>
 <div style="text-align: justify">
@@ -29,10 +29,10 @@ My research focuses on making machine learning models more interpretable, reliab
 </div>
 
 <ul>
-  <li style="margin-bottom: 8px;"><b>Interpretable models via discrete optimization</b> — fast algorithms for near-optimal decision trees and rule-based models <i>(ICML 2025 Oral; 3 ICML 2026 papers, including 1 Spotlight)</i></li>
-  <li style="margin-bottom: 8px;"><b>Human-aligned uncertainty quantification</b> — prediction sets and risk control that match how people actually make decisions <i>(IJCAI 2022 Oral; NeurIPS 2022 Workshop)</i></li>
-  <li style="margin-bottom: 8px;"><b>Understanding distribution shifts</b> — diagnostic tools that explain how and why datasets differ <i>(JMLR 2025)</i></li>
-  <li style="margin-bottom: 8px;"><b>Foundation models for tabular and time series data</b> — mechanistic interpretability, inductive biases, and uncovering regimes where interpretable models perform better</li>
+  <li style="margin-bottom: 8px;"><b>Interpretable models via discrete optimization</b> — fast algorithms for near-optimal decision trees and rule-based models on tabular datasets <i>(ICML 2025 Oral; 3 ICML 2026 papers, including 1 Spotlight)</i></li>
+  <li style="margin-bottom: 8px;"><b>Human-aligned uncertainty quantification</b> — prediction sets and risk control optimized for joint human-machine collaboration <i>(IJCAI 2022 Oral; NeurIPS 2022 Workshop)</i></li>
+  <li style="margin-bottom: 8px;"><b>Understanding distribution shifts</b> - diagnostic tools that explain distribution shifts in tabular, time series, and vision datasets <i>(JMLR 2025)</i></li>
+  <li style="margin-bottom: 8px;"><b>Foundation models for tabular data</b> - mechanistic interpretability, inductive biases, uncovering regimes where interpretable models perform better</li>
 </ul>
 
 ---
@@ -48,7 +48,7 @@ Mumbai &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp;
 Cambridge &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp;
 London &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp;
 Durham, North Carolina &nbsp; <img src="files/plane.png" width="40" height="40"> &nbsp;
-New York
+New York City
 </div>
 
 <b>Here are the languages I am fluent in</b>: English, Hindi, French.
