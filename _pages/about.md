@@ -25,12 +25,15 @@ I graduated from the University of Cambridge in 2022 with a BA + MEng in Informa
 ## Research Interests
 
 <div style="text-align: justify">
-My research focuses on making machine learning models more interpretable, reliable, and actionable in real-world settings. I develop methods that balance predictive performance with transparency, such as discrete optimization techniques for near-optimal models (<b>ICML 2025 Oral</b>, <b>3 ICML 2026 papers including 1 Spotlight</b>), interpretable uncertainty quantification aligned with human judgments (<b>IJCAI Oral 2022</b>, <b>NeurIPS Workshop 2022</b>), and diagnostic tools to understand distribution shifts between datasets (<b>JMLR 2025</b>).
+My research focuses on making machine learning models more interpretable, reliable, and actionable in real-world settings. I develop methods that balance predictive performance with transparency, including:
 </div>
 
-<div style="text-align: justify">
-More recently, I'm also interested in foundation models for tabular and time series data. I'm currently exploring their mechanistic interpretability, understanding their inductive biases, and uncovering regimes where interpretable models perform better.
-</div>
+<ul>
+  <li style="margin-bottom: 8px;"><b>Interpretable models via discrete optimization</b> — fast algorithms for near-optimal decision trees and rule-based models <i>(ICML 2025 Oral; 3 ICML 2026 papers, including 1 Spotlight)</i></li>
+  <li style="margin-bottom: 8px;"><b>Human-aligned uncertainty quantification</b> — prediction sets and risk control that match how people actually make decisions <i>(IJCAI 2022 Oral; NeurIPS 2022 Workshop)</i></li>
+  <li style="margin-bottom: 8px;"><b>Understanding distribution shifts</b> — diagnostic tools that explain how and why datasets differ <i>(JMLR 2025)</i></li>
+  <li style="margin-bottom: 8px;"><b>Foundation models for tabular and time series data</b> — mechanistic interpretability, inductive biases, and uncovering regimes where interpretable models perform better</li>
+</ul>
 
 ---
 
