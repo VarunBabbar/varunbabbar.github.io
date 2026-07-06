@@ -9,15 +9,15 @@ redirect_from:
 ---
 
 <div style="text-align: justify">
-Hi! I'm Varun Babbar, a PhD candidate in Machine Learning at Duke University, advised by <a href="https://users.cs.duke.edu/~cynthia/">Cynthia Rudin</a>. I also work closely with <a href="https://www.seltzer.com/margo/">Margo Seltzer </a>. I'm currently a Research Scientist Intern in the AI Foundations team at Capital One, New York, training specialized foundation models for tabular data.
+Hi! I'm Varun Babbar, a <b>PhD candidate in Machine Learning at Duke University</b>, advised by <a href="https://users.cs.duke.edu/~cynthia/">Cynthia Rudin</a>. I also work closely with <a href="https://www.seltzer.com/margo/">Margo Seltzer</a>. I'm currently a <b>Research Scientist Intern</b> in the AI Foundations team at <b>Capital One</b>, New York, training specialized <b>foundation models for tabular data</b>.
 </div>
 <br>
 <div style="text-align: justify">
-Before my PhD, I was an Applied Scientist at JP Morgan London, working on developing machine learning models for automated source code understanding. This work led to a <a href="https://patents.google.com/patent/US20250005530A1/en">pending patent</a> on an LLM-based architecture for automated software development and <a href="https://dl.acm.org/doi/abs/10.1145/3643665.3648047">a paper</a> on representation learning for code repositories.
+Before my PhD, I was an <b>Applied Scientist at JP Morgan</b> London, working on developing machine learning models for automated source code understanding. This work led to a <a href="https://patents.google.com/patent/US20250005530A1/en"><b>pending patent</b></a> on an <b>LLM-based architecture</b> for automated software development and <a href="https://dl.acm.org/doi/abs/10.1145/3643665.3648047">a paper</a> on representation learning for code repositories.
 </div>
 <br>
 <div style="text-align: justify">
-I graduated from the University of Cambridge in 2022 with a BA + MEng in Information and Computer Engineering, ranking in the top 5% of my class. During my time at Cambridge, I've collaborated with <a href="https://umangsbhatt.github.io/">Umang Bhatt</a> and <a href="https://mlg.eng.cam.ac.uk/adrian/">Adrian Weller</a> on human-aligned uncertainty quantification and risk control, <a href="https://sjmoran.github.io/">Sean Moran</a> on federated learning for Covid-19 diagnosis, and <a href="https://www.cl.cam.ac.uk/~rkm38/">Rafal Mantiuk</a> on developing visual loss functions for image-to-image translation models.
+I graduated from the <b>University of Cambridge</b> in 2022 with a BA + MEng in Information and Computer Engineering, ranking in the <b>top 5% of my class</b>. During my time at Cambridge, I've collaborated with <a href="https://umangsbhatt.github.io/">Umang Bhatt</a> and <a href="https://mlg.eng.cam.ac.uk/adrian/">Adrian Weller</a> on <b>human-aligned uncertainty quantification</b> and risk control, <a href="https://sjmoran.github.io/">Sean Moran</a> on <b>federated learning</b> for Covid-19 diagnosis, and <a href="https://www.cl.cam.ac.uk/~rkm38/">Rafal Mantiuk</a> on developing visual loss functions for image-to-image translation models.
 </div>
 
 ---
@@ -29,9 +29,9 @@ My research focuses on making machine learning models more interpretable, reliab
 </div>
 
 <ul>
-  <li style="margin-bottom: 8px;"><b>Interpretable models via discrete optimization</b> — fast algorithms for near-optimal decision trees and rule-based models on tabular datasets <i>(ICML 2025 Oral; 3 ICML 2026 papers, including 1 Spotlight)</i></li>
-  <li style="margin-bottom: 8px;"><b>Human-aligned uncertainty quantification</b> — prediction sets and risk control optimized for joint human-machine collaboration <i>(IJCAI 2022 Oral; NeurIPS 2022 Workshop)</i></li>
-  <li style="margin-bottom: 8px;"><b>Understanding distribution shifts</b> - diagnostic tools that explain distribution shifts in tabular, time series, and vision datasets <i>(JMLR 2025)</i></li>
+  <li style="margin-bottom: 8px;"><b>Interpretable models via discrete optimization</b> — fast algorithms for near-optimal decision trees and rule-based models on tabular datasets <i>(<b>ICML 2025 Oral</b>; <b>3 ICML 2026 papers, including 1 Spotlight</b>)</i></li>
+  <li style="margin-bottom: 8px;"><b>Human-aligned uncertainty quantification</b> — prediction sets and risk control optimized for joint human-machine collaboration <i>(<b>IJCAI 2022 Oral</b>; <b>NeurIPS 2022 Workshop</b>)</i></li>
+  <li style="margin-bottom: 8px;"><b>Understanding distribution shifts</b> - diagnostic tools that explain distribution shifts in tabular, time series, and vision datasets <i>(<b>JMLR 2025</b>)</i></li>
   <li style="margin-bottom: 8px;"><b>Foundation models for tabular data</b> - mechanistic interpretability, inductive biases, uncovering regimes where interpretable models perform better</li>
 </ul>
 
