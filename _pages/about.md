@@ -11,11 +11,11 @@ redirect_from:
 <div style="text-align: justify">
 Hi! I'm Varun Babbar, a PhD candidate in Machine Learning at Duke University, advised by <a href="https://users.cs.duke.edu/~cynthia/">Cynthia Rudin</a>. I also work closely with <a href="https://www.seltzer.com/margo/">Margo Seltzer </a>. I'm currently a Research Scientist Intern at Capital One in New York, training specialized foundation models for tabular data.
 </div>
-
+<br>
 <div style="text-align: justify">
 Before my PhD, I was an Applied Scientist at JP Morgan Chase in London, working on developing machine learning models for automated source code understanding — work that led to a <a href="https://patents.google.com/patent/US20250005530A1/en">pending patent</a> and <a href="https://dl.acm.org/doi/abs/10.1145/3643665.3648047">a paper</a>.
 </div>
-
+<br>
 <div style="text-align: justify">
 I graduated from the University of Cambridge in 2022 with a BA + MEng in Information and Computer Engineering, ranking in the top 5% of my class. During my time at Cambridge, I've collaborated with <a href="https://umangsbhatt.github.io/">Umang Bhatt</a> and <a href="https://mlg.eng.cam.ac.uk/adrian/">Adrian Weller</a> on human-aligned uncertainty quantification and risk control, <a href="https://sjmoran.github.io/">Sean Moran</a> on federated learning for Covid-19 diagnosis, and <a href="https://www.cl.cam.ac.uk/~rkm38/">Rafal Mantiuk</a> on developing visual loss functions for image-to-image translation models.
 </div>
