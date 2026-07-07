@@ -10,7 +10,7 @@ author_profile: true
 
 1. Zack Boner\*, **Varun Babbar**\*, Michael Thomas\*, Allen Yao\*, Cynthia Rudin  
    <span style="color:navy">Rashomon Sets of Falling Rule Lists</span>  
-   _Submitted to Journal of Machine Learning Research (JMLR), 2024._  
+   _Submitted to JMLR, 2024._  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2403.05652)
 -->
 
@@ -18,47 +18,47 @@ author_profile: true
 
 1. **Varun Babbar**\*, Stark Guo\*, Cynthia Rudin  
    <span style="color:navy">"What is Different Between These Datasets?" A Framework for Explaining Data Distribution Shifts</span>  
-   _Journal of Machine Learning Research (JMLR), 2025._  
+   _JMLR, 2025._  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://jmlr.org/papers/v26/24-0352.html)
 
-1. **Varun Babbar**\*, Hayden McTavish\*, Cynthia Rudin, Margo Seltzer  
+2. **Varun Babbar**\*, Hayden McTavish\*, Cynthia Rudin, Margo Seltzer  
    <span style="color:navy">Near-Optimal Decision Trees in a SPLIT Second</span>  
-   _International Conference on Machine Learning (ICML), 2025._ **(Oral, ~Top 1% of submissions)**  
+   _ICML, 2025._ **(Oral, ~Top 1% of submissions)**  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2502.15988)
    [<button type="button" class="btn btn-info" style="background-color:#ffdd57">Code</button>](https://github.com/VarunBabbar/SPLIT-ICML)
 
-1. **Varun Babbar**\*, Zachery Boner\*, Margo Seltzer, Cynthia Rudin  
+3. **Varun Babbar**\*, Zachery Boner\*, Margo Seltzer, Cynthia Rudin  
    <span style="color:navy">Falling Trees: A Model Class for Interpretable Risk Prioritisation</span>  
-   _International Conference on Machine Learning (ICML), 2026._ **(Spotlight, ~Top 2% of submissions)**  
+   _ICML, 2026._ **(Spotlight, ~Top 2% of submissions)**  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://openreview.net/forum?id=UWLHtRaVHp&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2026%2FConference%2FAuthors%23your-submissions))
 
-1. Yixiao Wang\*, Hayden McTavish\*, **Varun Babbar**\*, Margo Seltzer, Cynthia Rudin  
+4. Yixiao Wang\*, Hayden McTavish\*, **Varun Babbar**\*, Margo Seltzer, Cynthia Rudin  
    <span style="color:navy">CLARITree: Cholesky and Lookahead Accelerations for Regression with Interpretable Piecewise Linear Trees</span>  
-   _International Conference on Machine Learning (ICML), 2026._  
+   _ICML, 2026._  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2606.12840)
 
-1. Zakk Heile\*, Hayden McTavish\*, **Varun Babbar**, Margo Seltzer, Cynthia Rudin  
+5. Zakk Heile\*, Hayden McTavish\*, **Varun Babbar**, Margo Seltzer, Cynthia Rudin  
    <span style="color:navy">From Rashomon Theory to PRAXIS: Efficient Decision Tree Rashomon Sets</span>  
-   _International Conference on Machine Learning (ICML), 2026._  
+   _ICML, 2026._  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/pdf/2606.00202)
    [<button type="button" class="btn btn-info" style="background-color:#ffdd57">Code</button>](https://github.com/zakk-h/PRAXIS)
 
 
-1. **Varun Babbar**, Umang Bhatt, Adrian Weller  
+6. **Varun Babbar**, Umang Bhatt, Adrian Weller  
    <span style="color:navy">On the Utility of Prediction Sets in Human-AI Teams</span>  
-   _International Joint Conference on Artificial Intelligence (IJCAI), 2022._ **(Oral, Top 3% of submissions)**  
+   _IJCAI, 2022._ **(Oral, Top 3% of submissions)**  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2205.01411)
    [<button type="button" class="btn btn-info" style="background-color:red">Poster</button>](/files/On_the_Utility_of_Prediction_Sets_in_Human_AI_Teams_Poster.pdf)
 
-1. Antonios Georgiadis\*, **Varun Babbar**\*, Fran Silavong, Sean Moran, Rob Otter  
+7. Antonios Georgiadis\*, **Varun Babbar**\*, Fran Silavong, Sean Moran, Rob Otter  
    <span style="color:navy">ST-FL: Style Transfer Preprocessing in Federated Learning for COVID-19 segmentation</span>  
-   _SPIE Medical Imaging 2022: Imaging Informatics for Healthcare, Research, and Applications_  
+   _SPIE Medical Imaging, 2022_  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12037/1203704/ST-FL--style-transfer-preprocessing-in-federated-learning-for/10.1117/12.2611096.short?SSO=1)
    [<button type="button" class="btn btn-info" style="background-color:red">Poster</button>](/files/Style_Transfer_Preprocessing_in_Federated_Learning___Poster.pdf)
 
-1. Aamir Mustafa, Aliaksei Mikhailiuk, Dan Andrei Iliescu, **Varun Babbar**, Rafal K Mantiuk  
+8. Aamir Mustafa, Aliaksei Mikhailiuk, Dan Andrei Iliescu, **Varun Babbar**, Rafal K Mantiuk  
    <span style="color:navy">Training a Task-Specific Image Reconstruction Loss</span>  
-   _Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, 2022_  
+   _WACV, 2022_  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://openaccess.thecvf.com/content/WACV2022/papers/Mustafa_Training_a_Task-Specific_Image_Reconstruction_Loss_WACV_2022_paper.pdf)
    [<button type="button" class="btn btn-info" style="background-color:#ffdd57">Code</button>](https://github.com/gfxdisp/mdf)
 
@@ -68,18 +68,18 @@ author_profile: true
 
 1. Zakk Heile, **Varun Babbar**, Hayden McTavish, Cynthia Rudin  
    <span style="color:navy">Efficient Rashomon Set Approximation for Decision Tree Models</span>  
-   _NeurIPS 2025, ML x OR Workshop: Mathematical Foundations and Operational Integration of Machine Learning for Uncertainty-Aware Decision-Making_  
+   _NeurIPS 2025, ML x OR Workshop_  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>]()
 
-1. **Varun Babbar**, Umang Bhatt, Miri Zilka, Adrian Weller  
+2. **Varun Babbar**, Umang Bhatt, Miri Zilka, Adrian Weller  
    <span style="color:navy">Conformal Prediction for Resource Prioritisation in Predicting Rare and Dangerous Outcomes</span>  
-   _NeurIPS Workshop on Human in the Loop Learning, 2022_  
+   _NeurIPS 2022, Human-in-the-Loop Learning Workshop_  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](/files/NIPS_2022_HILL_Workshop__CP_Dangerous_Individual_Flagging.pdf)
    [<button type="button" class="btn btn-info" style="background-color:red">Poster</button>](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/64431.png?t=1669665249.8476038)
 
-1. Agathe Lherondelle, **Varun Babbar**, Yash Satsangi, Fran Silavong, Shaltiel Eloul, Sean Moran  
+3. Agathe Lherondelle, **Varun Babbar**, Yash Satsangi, Fran Silavong, Shaltiel Eloul, Sean Moran  
    <span style="color:navy">Topical: Learning Repository Embeddings from Source Code using Attention</span>  
-   In _The 1st Workshop on Software Engineering Challenges in Financial Firms, International Conference on Software Engineering (ICSE) 2024_  
+   _ICSE 2024, Workshop on Software Engineering Challenges in Financial Firms_  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/pdf/2208.09495.pdf)
 
 ---
@@ -90,7 +90,7 @@ author_profile: true
    <span style="color:navy">Systems and Methods For Noise Agnostic Federated Learning, 2023</span>  
    [<button type="button" class="btn btn-info" style="background-color:green">Patent</button>](https://www.freepatentsonline.com/y2023/0058972.html)
 
-1. Peter Maciver, **Varun Babbar**, Sean Moran  
+2. Peter Maciver, **Varun Babbar**, Sean Moran  
    <span style="color:navy">Systems and Methods for Automated Application and Platform Generation, 2025</span>  
    [<button type="button" class="btn btn-info" style="background-color:green">Patent</button>](https://www.freepatentsonline.com/y2025/0005530.html)
 
