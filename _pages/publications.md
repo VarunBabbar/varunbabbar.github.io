@@ -18,35 +18,35 @@ author_profile: true
 
 1. **Varun Babbar**\*, Stark Guo\*, Cynthia Rudin  
    <span style="color:navy">"What is Different Between These Datasets?" A Framework for Explaining Data Distribution Shifts</span>  
-   _JMLR, 2025._  
+   _JMLR, 2025_  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://jmlr.org/papers/v26/24-0352.html)
 
 2. **Varun Babbar**\*, Hayden McTavish\*, Cynthia Rudin, Margo Seltzer  
    <span style="color:navy">Near-Optimal Decision Trees in a SPLIT Second</span>  
-   _ICML, 2025._ **(Oral, ~Top 1% of submissions)**  
+   _ICML, 2025_ **(Oral, ~Top 1% of submissions)**  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2502.15988)
    [<button type="button" class="btn btn-info" style="background-color:#ffdd57">Code</button>](https://github.com/VarunBabbar/SPLIT-ICML)
 
 3. **Varun Babbar**\*, Zachery Boner\*, Margo Seltzer, Cynthia Rudin  
    <span style="color:navy">Falling Trees: A Model Class for Interpretable Risk Prioritisation</span>  
-   _ICML, 2026._ **(Spotlight, ~Top 2% of submissions)**  
+   _ICML, 2026_ **(Spotlight, ~Top 2% of submissions)**  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://openreview.net/forum?id=UWLHtRaVHp&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2026%2FConference%2FAuthors%23your-submissions))
 
 4. Yixiao Wang\*, Hayden McTavish\*, **Varun Babbar**\*, Margo Seltzer, Cynthia Rudin  
    <span style="color:navy">CLARITree: Cholesky and Lookahead Accelerations for Regression with Interpretable Piecewise Linear Trees</span>  
-   _ICML, 2026._  
+   _ICML, 2026_  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2606.12840)
 
 5. Zakk Heile\*, Hayden McTavish\*, **Varun Babbar**, Margo Seltzer, Cynthia Rudin  
    <span style="color:navy">From Rashomon Theory to PRAXIS: Efficient Decision Tree Rashomon Sets</span>  
-   _ICML, 2026._  
+   _ICML, 2026_  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/pdf/2606.00202)
    [<button type="button" class="btn btn-info" style="background-color:#ffdd57">Code</button>](https://github.com/zakk-h/PRAXIS)
 
 
 6. **Varun Babbar**, Umang Bhatt, Adrian Weller  
    <span style="color:navy">On the Utility of Prediction Sets in Human-AI Teams</span>  
-   _IJCAI, 2022._ **(Oral, Top 3% of submissions)**  
+   _IJCAI, 2022_ **(Oral, Top 3% of submissions)**  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2205.01411)
    [<button type="button" class="btn btn-info" style="background-color:red">Poster</button>](/files/On_the_Utility_of_Prediction_Sets_in_Human_AI_Teams_Poster.pdf)
 
