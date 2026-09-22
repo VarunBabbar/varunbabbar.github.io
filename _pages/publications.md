@@ -30,7 +30,7 @@ author_profile: true
 3. **Varun Babbar**\*, Zachery Boner\*, Margo Seltzer, Cynthia Rudin  
    <span style="color:navy">Falling Trees: A Model Class for Interpretable Risk Prioritisation</span>  
    _ICML, 2026_ **(Spotlight, ~Top 2% of submissions)**  
-   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://openreview.net/forum?id=UWLHtRaVHp&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2026%2FConference%2FAuthors%23your-submissions))
+   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2609.23780)
 
 4. Yixiao Wang\*, Hayden McTavish\*, **Varun Babbar**\*, Margo Seltzer, Cynthia Rudin  
    <span style="color:navy">CLARITree: Cholesky and Lookahead Accelerations for Regression with Interpretable Piecewise Linear Trees</span>  
