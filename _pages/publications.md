@@ -16,47 +16,52 @@ author_profile: true
 
 ## Conference and Journal Publications
 
-1. **Varun Babbar**\*, Stark Guo\*, Cynthia Rudin  
-   <span style="color:navy">"What is Different Between These Datasets?" A Framework for Explaining Data Distribution Shifts</span>  
-   _JMLR, 2025_  
-   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://jmlr.org/papers/v26/24-0352.html)
-
-2. **Varun Babbar**\*, Hayden McTavish\*, Cynthia Rudin, Margo Seltzer  
-   <span style="color:navy">Near-Optimal Decision Trees in a SPLIT Second</span>  
-   _ICML, 2025_ **(Oral, ~Top 1% of submissions)**  
-   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2502.15988)
-   [<button type="button" class="btn btn-info" style="background-color:#ffdd57">Code</button>](https://github.com/VarunBabbar/SPLIT-ICML)
-
-3. **Varun Babbar**\*, Zachery Boner\*, Margo Seltzer, Cynthia Rudin  
+1. **Varun Babbar**\*, Zachery Boner\*, Margo Seltzer, Cynthia Rudin  
    <span style="color:navy">Falling Trees: A Model Class for Interpretable Risk Prioritisation</span>  
    _ICML, 2026_ **(Spotlight, ~Top 2% of submissions)**  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2609.23780)
+   
+2. **Varun Babbar**\*, Christopher Li, Chudi Zhong, Cynthia Rudin  
+   <span style="color:navy">Diverse Representative Rashomon Sets for Sparse Generalized Additive Models</span>  
+   _NeurIPS, 2026_ 
+   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>]()
+   [<button type="button" class="btn btn-info" style="background-color:#ffdd57">Code</button>]()
 
-4. Yixiao Wang\*, Hayden McTavish\*, **Varun Babbar**\*, Margo Seltzer, Cynthia Rudin  
+3. Yixiao Wang\*, Hayden McTavish\*, **Varun Babbar**\*, Margo Seltzer, Cynthia Rudin  
    <span style="color:navy">CLARITree: Cholesky and Lookahead Accelerations for Regression with Interpretable Piecewise Linear Trees</span>  
    _ICML, 2026_  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2606.12840)
 
-5. Zakk Heile\*, Hayden McTavish\*, **Varun Babbar**, Margo Seltzer, Cynthia Rudin  
+4. Zakk Heile\*, Hayden McTavish\*, **Varun Babbar**, Margo Seltzer, Cynthia Rudin  
    <span style="color:navy">From Rashomon Theory to PRAXIS: Efficient Decision Tree Rashomon Sets</span>  
    _ICML, 2026_  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/pdf/2606.00202)
    [<button type="button" class="btn btn-info" style="background-color:#ffdd57">Code</button>](https://github.com/zakk-h/PRAXIS)
 
+5. **Varun Babbar**\*, Stark Guo\*, Cynthia Rudin  
+   <span style="color:navy">"What is Different Between These Datasets?" A Framework for Explaining Data Distribution Shifts</span>  
+   _JMLR, 2025_  
+   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://jmlr.org/papers/v26/24-0352.html)
 
-6. **Varun Babbar**, Umang Bhatt, Adrian Weller  
+6. **Varun Babbar**\*, Hayden McTavish\*, Cynthia Rudin, Margo Seltzer  
+   <span style="color:navy">Near-Optimal Decision Trees in a SPLIT Second</span>  
+   _ICML, 2025_ **(Oral, ~Top 1% of submissions)**  
+   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2502.15988)
+   [<button type="button" class="btn btn-info" style="background-color:#ffdd57">Code</button>](https://github.com/VarunBabbar/SPLIT-ICML)
+
+7. **Varun Babbar**, Umang Bhatt, Adrian Weller  
    <span style="color:navy">On the Utility of Prediction Sets in Human-AI Teams</span>  
    _IJCAI, 2022_ **(Oral, Top 3% of submissions)**  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2205.01411)
    [<button type="button" class="btn btn-info" style="background-color:red">Poster</button>](/files/On_the_Utility_of_Prediction_Sets_in_Human_AI_Teams_Poster.pdf)
 
-7. Antonios Georgiadis\*, **Varun Babbar**\*, Fran Silavong, Sean Moran, Rob Otter  
+8. Antonios Georgiadis\*, **Varun Babbar**\*, Fran Silavong, Sean Moran, Rob Otter  
    <span style="color:navy">ST-FL: Style Transfer Preprocessing in Federated Learning for COVID-19 segmentation</span>  
    _SPIE Medical Imaging, 2022_  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12037/1203704/ST-FL--style-transfer-preprocessing-in-federated-learning-for/10.1117/12.2611096.short?SSO=1)
    [<button type="button" class="btn btn-info" style="background-color:red">Poster</button>](/files/Style_Transfer_Preprocessing_in_Federated_Learning___Poster.pdf)
 
-8. Aamir Mustafa, Aliaksei Mikhailiuk, Dan Andrei Iliescu, **Varun Babbar**, Rafal K Mantiuk  
+9. Aamir Mustafa, Aliaksei Mikhailiuk, Dan Andrei Iliescu, **Varun Babbar**, Rafal K Mantiuk  
    <span style="color:navy">Training a Task-Specific Image Reconstruction Loss</span>  
    _WACV, 2022_  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://openaccess.thecvf.com/content/WACV2022/papers/Mustafa_Training_a_Task-Specific_Image_Reconstruction_Loss_WACV_2022_paper.pdf)
@@ -71,28 +76,28 @@ author_profile: true
    _NeurIPS 2025, ML x OR Workshop_  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>]()
 
-2. **Varun Babbar**, Umang Bhatt, Miri Zilka, Adrian Weller  
+2. Agathe Lherondelle, **Varun Babbar**, Yash Satsangi, Fran Silavong, Shaltiel Eloul, Sean Moran  
+   <span style="color:navy">Topical: Learning Repository Embeddings from Source Code using Attention</span>  
+   _ICSE 2024, Workshop on Software Engineering Challenges in Financial Firms_  
+   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/pdf/2208.09495.pdf)
+
+3. **Varun Babbar**, Umang Bhatt, Miri Zilka, Adrian Weller  
    <span style="color:navy">Conformal Prediction for Resource Prioritisation in Predicting Rare and Dangerous Outcomes</span>  
    _NeurIPS 2022, Human-in-the-Loop Learning Workshop_  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](/files/NIPS_2022_HILL_Workshop__CP_Dangerous_Individual_Flagging.pdf)
    [<button type="button" class="btn btn-info" style="background-color:red">Poster</button>](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/64431.png?t=1669665249.8476038)
 
-3. Agathe Lherondelle, **Varun Babbar**, Yash Satsangi, Fran Silavong, Shaltiel Eloul, Sean Moran  
-   <span style="color:navy">Topical: Learning Repository Embeddings from Source Code using Attention</span>  
-   _ICSE 2024, Workshop on Software Engineering Challenges in Financial Firms_  
-   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/pdf/2208.09495.pdf)
-
 ---
 
 ## Patents
 
-1. Antonios Georgiadis, Fanny Silavong, Sean Moran, Rob Otter, **Varun Babbar**  
-   <span style="color:navy">Systems and Methods For Noise Agnostic Federated Learning, 2023</span>  
-   [<button type="button" class="btn btn-info" style="background-color:green">Patent</button>](https://www.freepatentsonline.com/y2023/0058972.html)
-
-2. Peter Maciver, **Varun Babbar**, Sean Moran  
+1. Peter Maciver, **Varun Babbar**, Sean Moran  
    <span style="color:navy">Systems and Methods for Automated Application and Platform Generation, 2025</span>  
    [<button type="button" class="btn btn-info" style="background-color:green">Patent</button>](https://www.freepatentsonline.com/y2025/0005530.html)
+
+2. Antonios Georgiadis, Fanny Silavong, Sean Moran, Rob Otter, **Varun Babbar**  
+   <span style="color:navy">Systems and Methods For Noise Agnostic Federated Learning, 2023</span>  
+   [<button type="button" class="btn btn-info" style="background-color:green">Patent</button>](https://www.freepatentsonline.com/y2023/0058972.html)
 
 ---
 
