@@ -5,15 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!--
-## Papers Currently Under Review
-
-1. Zack Boner\*, **Varun Babbar**\*, Michael Thomas\*, Allen Yao\*, Cynthia Rudin  
-   <span style="color:navy">Rashomon Sets of Falling Rule Lists</span>  
-   _Submitted to JMLR, 2024._  
-   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2403.05652)
--->
-
 ## Conference and Journal Publications
 
 1. **Varun Babbar**\*, Zachery Boner\*, Margo Seltzer, Cynthia Rudin  
@@ -40,7 +31,7 @@ author_profile: true
 
 5. **Varun Babbar**\*, Stark Guo\*, Cynthia Rudin  
    <span style="color:navy">"What is Different Between These Datasets?" A Framework for Explaining Data Distribution Shifts</span>  
-   _JMLR, 2025_  
+   _JMLR, 2025_, _NeurIPS, 2026_
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://jmlr.org/papers/v26/24-0352.html)
 
 6. **Varun Babbar**\*, Hayden McTavish\*, Cynthia Rudin, Margo Seltzer  
