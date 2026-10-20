@@ -96,7 +96,7 @@ author_profile: true
 
 ---
 
-## Thesis
+## Theses
 
 1. **Varun Babbar**  
    <span style="color:navy">Set Valued Predictions for Human-AI Teams</span>  
