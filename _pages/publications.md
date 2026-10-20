@@ -33,17 +33,17 @@ author_profile: true
 
 ### 2025
 
-1. **Varun Babbar**\*, Stark Guo\*, Cynthia Rudin  
-   <span style="color:navy">"What is Different Between These Datasets?" A Framework for Explaining Data Distribution Shifts</span>  
-   _JMLR, 2025_; _NeurIPS, 2026_   
-   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://jmlr.org/papers/v26/24-0352.html)
-   [<button type="button" class="btn btn-info" style="background-color:#ffdd57">Code</button>](https://github.com/chengstark/Interpretable-Dataset-Difference-Explanation)
-
-2. **Varun Babbar**\*, Hayden McTavish\*, Cynthia Rudin, Margo Seltzer  
+1. **Varun Babbar**\*, Hayden McTavish\*, Cynthia Rudin, Margo Seltzer  
    <span style="color:navy">Near-Optimal Decision Trees in a SPLIT Second</span>  
    _ICML, 2025_ **(Oral, ~Top 1% of submissions)**  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2502.15988)
    [<button type="button" class="btn btn-info" style="background-color:#ffdd57">Code</button>](https://github.com/VarunBabbar/SPLIT-ICML)
+
+2. **Varun Babbar**\*, Stark Guo\*, Cynthia Rudin  
+   <span style="color:navy">"What is Different Between These Datasets?" A Framework for Explaining Data Distribution Shifts</span>  
+   _JMLR, 2025_; _NeurIPS, 2026_   
+   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://jmlr.org/papers/v26/24-0352.html)
+   [<button type="button" class="btn btn-info" style="background-color:#ffdd57">Code</button>](https://github.com/chengstark/Interpretable-Dataset-Difference-Explanation)
 
 3. Zakk Heile, **Varun Babbar**, Hayden McTavish, Cynthia Rudin  
    <span style="color:navy">Efficient Rashomon Set Approximation for Decision Tree Models</span>  
