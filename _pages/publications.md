@@ -35,7 +35,7 @@ author_profile: true
 
 1. **Varun Babbar**\*, Stark Guo\*, Cynthia Rudin  
    <span style="color:navy">"What is Different Between These Datasets?" A Framework for Explaining Data Distribution Shifts</span>  
-   _JMLR, 2025_, _NeurIPS, 2026_   
+   _JMLR, 2025_; _NeurIPS, 2026_   
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://jmlr.org/papers/v26/24-0352.html)
    [<button type="button" class="btn btn-info" style="background-color:#ffdd57">Code</button>](https://github.com/chengstark/Interpretable-Dataset-Difference-Explanation)
 
