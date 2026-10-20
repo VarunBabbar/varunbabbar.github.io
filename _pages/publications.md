@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Conference and Journal Publications
+## Publications
+
+### 2026
 
 1. **Varun Babbar**\*, Zachery Boner\*, Margo Seltzer, Cynthia Rudin  
    <span style="color:navy">Falling Trees: A Model Class for Interpretable Risk Prioritisation</span>  
@@ -29,50 +31,52 @@ author_profile: true
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/pdf/2606.00202)
    [<button type="button" class="btn btn-info" style="background-color:#ffdd57">Code</button>](https://github.com/zakk-h/PRAXIS)
 
-5. **Varun Babbar**\*, Stark Guo\*, Cynthia Rudin  
+### 2025
+
+1. **Varun Babbar**\*, Stark Guo\*, Cynthia Rudin  
    <span style="color:navy">"What is Different Between These Datasets?" A Framework for Explaining Data Distribution Shifts</span>  
-   _JMLR, 2025_, _NeurIPS, 2026_
+   _JMLR, 2025_, _NeurIPS, 2026_  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://jmlr.org/papers/v26/24-0352.html)
 
-6. **Varun Babbar**\*, Hayden McTavish\*, Cynthia Rudin, Margo Seltzer  
+2. **Varun Babbar**\*, Hayden McTavish\*, Cynthia Rudin, Margo Seltzer  
    <span style="color:navy">Near-Optimal Decision Trees in a SPLIT Second</span>  
    _ICML, 2025_ **(Oral, ~Top 1% of submissions)**  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2502.15988)
    [<button type="button" class="btn btn-info" style="background-color:#ffdd57">Code</button>](https://github.com/VarunBabbar/SPLIT-ICML)
 
-7. **Varun Babbar**, Umang Bhatt, Adrian Weller  
+3. Zakk Heile, **Varun Babbar**, Hayden McTavish, Cynthia Rudin  
+   <span style="color:navy">Efficient Rashomon Set Approximation for Decision Tree Models</span>  
+   _NeurIPS 2025, ML x OR Workshop_  
+   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>]()
+
+### 2024
+
+1. Agathe Lherondelle, **Varun Babbar**, Yash Satsangi, Fran Silavong, Shaltiel Eloul, Sean Moran  
+   <span style="color:navy">Topical: Learning Repository Embeddings from Source Code using Attention</span>  
+   _ICSE 2024, Workshop on Software Engineering Challenges in Financial Firms_  
+   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/pdf/2208.09495.pdf)
+
+### 2022
+
+1. **Varun Babbar**, Umang Bhatt, Adrian Weller  
    <span style="color:navy">On the Utility of Prediction Sets in Human-AI Teams</span>  
    _IJCAI, 2022_ **(Oral, Top 3% of submissions)**  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2205.01411)
    [<button type="button" class="btn btn-info" style="background-color:red">Poster</button>](/files/On_the_Utility_of_Prediction_Sets_in_Human_AI_Teams_Poster.pdf)
 
-8. Antonios Georgiadis\*, **Varun Babbar**\*, Fran Silavong, Sean Moran, Rob Otter  
+2. Antonios Georgiadis\*, **Varun Babbar**\*, Fran Silavong, Sean Moran, Rob Otter  
    <span style="color:navy">ST-FL: Style Transfer Preprocessing in Federated Learning for COVID-19 segmentation</span>  
    _SPIE Medical Imaging, 2022_  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12037/1203704/ST-FL--style-transfer-preprocessing-in-federated-learning-for/10.1117/12.2611096.short?SSO=1)
    [<button type="button" class="btn btn-info" style="background-color:red">Poster</button>](/files/Style_Transfer_Preprocessing_in_Federated_Learning___Poster.pdf)
 
-9. Aamir Mustafa, Aliaksei Mikhailiuk, Dan Andrei Iliescu, **Varun Babbar**, Rafal K Mantiuk  
+3. Aamir Mustafa, Aliaksei Mikhailiuk, Dan Andrei Iliescu, **Varun Babbar**, Rafal K Mantiuk  
    <span style="color:navy">Training a Task-Specific Image Reconstruction Loss</span>  
    _WACV, 2022_  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://openaccess.thecvf.com/content/WACV2022/papers/Mustafa_Training_a_Task-Specific_Image_Reconstruction_Loss_WACV_2022_paper.pdf)
    [<button type="button" class="btn btn-info" style="background-color:#ffdd57">Code</button>](https://github.com/gfxdisp/mdf)
 
----
-
-## Workshop Publications
-
-1. Zakk Heile, **Varun Babbar**, Hayden McTavish, Cynthia Rudin  
-   <span style="color:navy">Efficient Rashomon Set Approximation for Decision Tree Models</span>  
-   _NeurIPS 2025, ML x OR Workshop_  
-   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>]()
-
-2. Agathe Lherondelle, **Varun Babbar**, Yash Satsangi, Fran Silavong, Shaltiel Eloul, Sean Moran  
-   <span style="color:navy">Topical: Learning Repository Embeddings from Source Code using Attention</span>  
-   _ICSE 2024, Workshop on Software Engineering Challenges in Financial Firms_  
-   [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/pdf/2208.09495.pdf)
-
-3. **Varun Babbar**, Umang Bhatt, Miri Zilka, Adrian Weller  
+4. **Varun Babbar**, Umang Bhatt, Miri Zilka, Adrian Weller  
    <span style="color:navy">Conformal Prediction for Resource Prioritisation in Predicting Rare and Dangerous Outcomes</span>  
    _NeurIPS 2022, Human-in-the-Loop Learning Workshop_  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](/files/NIPS_2022_HILL_Workshop__CP_Dangerous_Individual_Flagging.pdf)
