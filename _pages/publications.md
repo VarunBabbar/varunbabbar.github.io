@@ -25,6 +25,7 @@ author_profile: true
    <span style="color:navy">CLARITree: Cholesky and Lookahead Accelerations for Regression with Interpretable Piecewise Linear Trees</span>  
    _ICML, 2026_  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2606.12840)
+   [<button type="button" class="btn btn-info" style="background-color:#ffdd57">Code</button>](https://github.com/Yixiao-Wang-Stats/CLARITree)
 
 4. Zakk Heile\*, Hayden McTavish\*, **Varun Babbar**, Margo Seltzer, Cynthia Rudin  
    <span style="color:navy">From Rashomon Theory to PRAXIS: Efficient Decision Tree Rashomon Sets</span>  
