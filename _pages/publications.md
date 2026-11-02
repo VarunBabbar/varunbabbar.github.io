@@ -13,6 +13,7 @@ author_profile: true
    <span style="color:navy">Falling Trees: A Model Class for Interpretable Risk Prioritisation</span>  
    _ICML, 2026_ **(Spotlight, ~Top 2% of submissions)**  
    [<button type="button" class="btn btn-info" style="background-color:blue">Paper</button>](https://arxiv.org/abs/2609.23780)
+   [<button type="button" class="btn btn-info" style="background-color:#ffdd57">Code</button>](https://github.com/VarunBabbar/GraviTree/tree/main)
    
 2. **Varun Babbar**, Christopher Li, Chudi Zhong, Cynthia Rudin  
    <span style="color:navy">Diverse Representative Rashomon Sets for Sparse Generalized Additive Models</span>  
